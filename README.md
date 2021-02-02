@@ -8,6 +8,7 @@ Personal project aimed at making a portable battery powered morse device, using 
 * SparkFun Buck-Boost Converter
 * Hamlin Reed Relay HE3621A0510
 * Everlight LED JU1215 12V, 7W
+* Mini Dean plug/ T-plug
 
 ## 
 ![alt text](https://github.com/OlivierVollmin/ProjectMorse/blob/main/components.jpg)
